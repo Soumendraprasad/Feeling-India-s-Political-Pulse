@@ -10,5 +10,6 @@ Here I performed EDA & Draw Insight From 2L+ Tweets. 👇
 >### **3. How Far People Are Accepting Arvind Kejriwal Across The Country ?**
 
 <img src="https://images.hindustantimes.com/rf/image_size_640x362/HT/p1/2015/02/04/Incoming/Pictures/1313760_Wallpaper2.jpg" width= 450 height = 400 />
+
 # Do Check Out My 👉 [Kaggle Profile](https://www.kaggle.com/soumendraprasad)
 # Do Check Out My 👉 [LinkedIn  Profile](https://www.linkedin.com/in/soumendra-prasad-mohanty-9338b9243/)
